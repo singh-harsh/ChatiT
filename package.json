@@ -4,7 +4,8 @@
   "description": "demo chat app",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -17,5 +18,13 @@
   "devDependencies": {
     "jasmine": "^3.1.0",
     "request": "^2.87.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singh-harsh/ChatiT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/singh-harsh/ChatiT/issues"
+  },
+  "homepage": "https://github.com/singh-harsh/ChatiT#readme"
 }
